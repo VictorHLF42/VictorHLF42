@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Victor)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am%2C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+Software+Engineer)](https://git.io/typing-svg)
 
 
 
@@ -26,11 +26,6 @@ Here are some of my skills:
 </p>
 
 
-<div aling="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorHLF42&theme=violet-punch)](https://git.io/streak-stats)
-
-<div/>
 
 
 
@@ -47,6 +42,13 @@ Here are some of my skills:
 <!--<div aling="center">
 
 ![Ashutoshs github activity_graph].(https://ssr-contributions-svg.vercel.app/_/VictorHLF42?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green)
+
+<div/>
+
+
+<div aling="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorHLF42&theme=violet-punch)](https://git.io/streak-stats)
 
 <div/>
 
