@@ -24,7 +24,7 @@
     </a>
 </div>
 
-# Skills
+# My Stack
 
 Here are some of my skills:
 
