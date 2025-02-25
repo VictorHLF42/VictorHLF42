@@ -5,7 +5,10 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+Software+Engineer)](https://git.io/typing-svg)
 
-
+* Constantly trying to be better than before. 🧠
+* Studying Software Engineering at Estácio University. 👨‍🎓
+* Studying Software Analysis and Development at Unisuam University. 👨‍🎓
+* Full scholarship student at all universities. 🎉
 
  ## 🌐 Socials:
 
@@ -45,6 +48,7 @@ Here are some of my skills:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVictorHLF42&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--<div aling="center">
