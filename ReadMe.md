@@ -9,14 +9,16 @@
 
  ## 🌐 Socials:
 
-<div aling="center">
-<a href="https://www.instagram.com/_vich.lopes/"></a>
-<img aling="center" height="30" width="110"  src="https://github.com/user-attachments/assets/8179ce10-c65b-4697-aeaa-d99dfbd274b1" alt="">
+<div style="text-align: center;">
+    <a href="https://www.instagram.com/_vich.lopes/">
+        <img height="30" width="110" src="https://github.com/user-attachments/assets/8179ce10-c65b-4697-aeaa-d99dfbd274b1" alt="Instagram">
+    </a>
 </div>
 
-<div aling="center">
-<a href="https://www.linkedin.com/in/victor-hugo-dev-/"></a>
-<img aling="center" height="30" width="110"  src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="">
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
+        <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="LinkedIn">
+    </a>
 </div>
 
 # Skills
