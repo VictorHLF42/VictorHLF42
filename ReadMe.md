@@ -7,12 +7,11 @@
 
 
 
-  ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/ew2vGr57) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-hugo-lopes-765a6b2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ ## 🌐 Socials:
 
-<div aling="left">
-  <img aling="left" height="80" width="80" src="![Image](https://github.com/user-attachments/assets/e9cc13b7-4bd3-4293-a895-ee33ba2a684e)"
-</div>
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/ew2vGr57)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-dev-/)
+
 
 # Skills
 
@@ -32,10 +31,22 @@ Here are some of my skills:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorHLF42&theme=violet-punch)](https://git.io/streak-stats)
 
 <div/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--<div aling="center">
+
+![Ashutoshs github activity_graph].(https://ssr-contributions-svg.vercel.app/_/VictorHLF42?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green)
+
+<div/>
+
