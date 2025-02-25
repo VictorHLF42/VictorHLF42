@@ -9,9 +9,15 @@
 
  ## 🌐 Socials:
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/ew2vGr57)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-dev-/)
+<div aling="center">
+<a href="https://www.instagram.com/_vich.lopes/"></a>
+<img aling="center" height="30" width="110"  src="https://github.com/user-attachments/assets/8179ce10-c65b-4697-aeaa-d99dfbd274b1" alt="">
+</div>
 
+<div aling="center">
+<a href="https://www.linkedin.com/in/victor-hugo-dev-/"></a>
+<img aling="center" height="30" width="110"  src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="">
+</div>
 
 # Skills
 
