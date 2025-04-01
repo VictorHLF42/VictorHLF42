@@ -10,7 +10,6 @@
 * Studying Software Analysis and Development at Unisuam University. 👨‍🎓
 * Full scholarship student at all universities. 🎉
 
-## 🌐 Socials:
 
 ## 🌐 Socials:
 
