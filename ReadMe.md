@@ -16,11 +16,11 @@
     <a href="https://www.instagram.com/_vich.lopes/">
         <img height="30" width="110" src="https://github.com/user-attachments/assets/8179ce10-c65b-4697-aeaa-d99dfbd274b1" alt="Instagram">
     </a>
-</div>
-
-<div style="text-align: center;">
     <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
         <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/VictorHLF42/curriculo/raw/main/Curriculo_Victor_Hugo_Lopes_Fernandes_de_Souza.PDF">
+        <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" style="filter: hue-rotate(200deg) brightness(1.2);" alt="Currículo">
     </a>
 </div>
 
