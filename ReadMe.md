@@ -19,8 +19,8 @@
     <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
         <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="LinkedIn">
     </a>
-    <a href="https://github.com/VictorHLF42/curriculo/raw/main/Curriculo_Victor_Hugo_Lopes_Fernandes_de_Souza.PDF">
-        <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" style="filter: hue-rotate(200deg) brightness(1.2);" alt="Currículo">
+       <a href="https://github.com/VictorHLF42/curriculo/raw/main/Curriculo_Victor_Hugo_Lopes_Fernandes_de_Souza.PDF">
+        <img height="30" src="https://img.shields.io/badge/-📄_Currículo-1E46FF?style=flat&logo=adobeacrobatreader&logoColor=white&labelColor=1E46FF" alt="Currículo">
     </a>
 </div>
 
