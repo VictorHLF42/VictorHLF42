@@ -10,7 +10,7 @@
 * Studying Software Analysis and Development at Unisuam University. 👨‍🎓
 * Full scholarship student at all universities. 🎉
 
- ## 🌐 Socials:
+## 🌐 Socials:
 
 ## 🌐 Socials:
 
@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
         <img height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="LinkedIn">
     </a>
-    <a href="https://github.com/VictorHLF42/VictorHLF42/raw/main/Curriculo_Victor.pdf">
+    <a href="https://github.com/VictorHLF42/VictorHLF42/raw/main/curriculo_victor_hugo_lopes.PDF">
         <img height="30" width="110" src="https://img.shields.io/badge/Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
