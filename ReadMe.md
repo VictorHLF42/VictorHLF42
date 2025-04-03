@@ -1,17 +1,29 @@
-<img width=100%  bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
+# Meu Perfil
+
+## 🌍 Escolha seu idioma
+
+<div style="text-align: center;">
+    <a href="#pt-br">🇧🇷 Português</a> | 
+    <a href="#en">🇺🇸 English</a>
+</div>
+
+---
+
+## <a id="pt-br">🇧🇷 Português</a>
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Victor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Olá%2C+meu+nome+é+Victor)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Sou+um+estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
 
-* Constantly trying to be better than before. 🧠
-* Studying Software Engineering at Estácio University. 👨‍🎓
-* Studying Software Analysis and Development at Unisuam University. 👨‍🎓
-* Full scholarship student at all universities. 🎉
+* Sempre tentando ser melhor do que antes. 🧠
+* Estudando Engenharia de Software na Universidade Estácio. 👨‍🎓
+* Estudando Análise e Desenvolvimento de Sistemas na Universidade Unisuam. 👨‍🎓
+* Estudante com bolsa integral em todas as universidades. 🎉
 
-
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 
 <div style="text-align: center;">
     <a href="https://www.instagram.com/_vich.lopes/">
@@ -21,11 +33,11 @@
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://victorhlf42.github.io/VictorHLF42/curriculo_victor_hugo_lopes.PDF" target="_blank">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Currículo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
 
-# My Stack
+## My Stack
 
 Here are some of my skills:
 
@@ -37,13 +49,37 @@ Here are some of my skills:
   <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50"/>
 </p>
 
+---
 
+## <a id="en">🇺🇸 English</a>
 
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Victor)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
 
+* Constantly trying to be better than before. 🧠
+* Studying Software Engineering at Estácio University. 👨‍🎓
+* Studying Software Analysis and Development at Unisuam University. 👨‍🎓
+* Full scholarship student at all universities. 🎉
 
+## 🌐 Socials:
 
- <picture>
+<div style="text-align: center;">
+    <a href="https://www.instagram.com/_vich.lopes/">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://victorhlf42.github.io/VictorHLF42/curriculo_victor_hugo_lopes.PDF" target="_blank">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
+    </a>
+</div>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
