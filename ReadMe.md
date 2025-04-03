@@ -15,10 +15,10 @@
 
 <div style="text-align: center;">
     <a href="https://www.instagram.com/_vich.lopes/">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://github.com/user-attachments/assets/8179ce10-c65b-4697-aeaa-d99dfbd274b1" alt="Instagram">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://github.com/user-attachments/assets/13e2c69a-55de-46c2-a821-6bbd99bf34d8" alt="LinkedIn">
+        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://victorhlf42.github.io/VictorHLF42/curriculo_victor_hugo_lopes.PDF" target="_blank">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Currículo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
