@@ -10,7 +10,7 @@
 * Studying Software Analysis and Development at Unisuam University. 👨‍🎓
 * Full scholarship student at all universities. 🎉
 
-## 🌐 Redes Sociais:
+## 🌐 Socials:
 
 <div style="text-align: center;">
     <a href="https://www.instagram.com/_vich.lopes/">
@@ -24,9 +24,9 @@
     </a>
 </div>
 
-# Minha Stack
+# My Stack
 
-Aqui estão algumas das minhas habilidades:
+Here are some of my skills:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9cc13b7-4bd3-4293-a895-ee33ba2a684e" width="50" height="50"/>
@@ -86,8 +86,6 @@ Aqui estão algumas das minhas habilidades:
 </picture>
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVictorHLF42&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
-
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
