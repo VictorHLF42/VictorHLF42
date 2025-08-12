@@ -29,11 +29,12 @@
 Here are some of my skills:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9cc13b7-4bd3-4293-a895-ee33ba2a684e" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/2e7da057-afc9-43dd-b9e9-17351ae64ae2" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/>
+ 
 </p>
 
 <details>
@@ -70,11 +71,11 @@ Here are some of my skills:
 Aqui estão algumas das minhas habilidades:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9cc13b7-4bd3-4293-a895-ee33ba2a684e" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/2e7da057-afc9-43dd-b9e9-17351ae64ae2" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/e110a56d-679a-4e39-9f24-326b0e38be3b" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/54401109-ec6e-4109-aa0c-fb4a58fa65f1" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/066ec464-724b-4e20-a393-f27201c51af2" width="50" height="50"/>
+   <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/>
 </p>
 
 </details>
