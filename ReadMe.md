@@ -86,7 +86,9 @@ Aqui estão algumas das minhas habilidades:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVictorHLF42&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
+<!-- <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVictorHLF42&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits"> -->
+
+<!-- <img src="https://komarev.com/ghpvc/?username=VictorHLF42&color=6C63FF&style=for-the-badge&label=VISITANTES" alt="Profile views"/> -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
